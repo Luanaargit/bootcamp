@@ -14,7 +14,7 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 * Testes: {TEST_FRAMEWORK} (Jest/Vitest)
 * Lint/format: {LINT_FORMAT} (ESLint/Prettier)
 * Banco: {DB} (Postgres/Mongo/etc.)
-* Infra: {DEPLOY} (Docker/Serverless/etc.)
+* Infra: {DEPLOY} (Docker/Serverless/etcvçc.)
 
 **Regras de stack:**
 
